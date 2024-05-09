@@ -8,6 +8,6 @@ Hi 👋
 
 ⚡ My current research interests include Affordance learning, Multi-view Learning, Continual Learning, Active Learning, Semi-supervised Classification, Clustering.
 
-💬 If you have any question, welcome to contact me at wanxinhang@nudt.edu.cn.
+💬 If you have any questions, welcome to contact me at wanxinhang@nudt.edu.cn.
 
 .
